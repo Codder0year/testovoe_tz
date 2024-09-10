@@ -1,0 +1,2 @@
+SECRET_KEY=privet
+DEBUG=privet
